@@ -10,6 +10,11 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about Programming and Web development
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sanjidaKabirSrity)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjidaKabirSrity&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/sanjidaKabirSrity)  
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
