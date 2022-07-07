@@ -57,8 +57,7 @@
 
 </details>
 
-[website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
-[linkedin]: https://linkedin.com/in/annaarsentieva
+
+[instagram]: https://www.instagram.com/
+[linkedin]: https://www.linkedin.com/in/sanjida-kabir-srity-1203/
 [portfolio]: https://sanjida-kabir-srity.netlify.app/
